@@ -19,7 +19,8 @@
     "test": "mocha --reporter spec test/*-test.js"
   },
   "dependencies": {
-    "bsert": "~0.0.3"
+    "bsert": "~0.0.3",
+    "buffer": "^5.2.0"
   },
   "devDependencies": {
     "eslint": "^5.1.0",
