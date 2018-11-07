@@ -1,5 +1,5 @@
 {
-  "name": "@gridplus/brq",
+  "name": "gridplus-brq",
   "version": "0.1.2",
   "description": "Request bike-shed",
   "keywords": [
@@ -31,8 +31,5 @@
   },
   "browser": {
     "./lib/request": "./lib/request-browser.js"
-  },
-  "publishConfig": {
-    "registry": "https://nexus.gridpl.us/repository/npm-private/"
   }
 }
